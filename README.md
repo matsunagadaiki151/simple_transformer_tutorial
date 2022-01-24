@@ -1,4 +1,5 @@
 ## 更新履歴
+- 1/24 colabボタンを追加
 - 1/23 初投稿
 
 # Simple Transformerを使った簡単な文書分類
